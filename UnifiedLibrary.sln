@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer.ConsoleApp.NetCore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer.ConsoleApp.NetCore5", "Consumer.ConsoleApp.NetCore5\Consumer.ConsoleApp.NetCore5.csproj", "{D4C1A252-673E-425E-A9D9-47732341C89D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifiedLibrary.UnitTests", "UnifiedLibrary.UnitTests\UnifiedLibrary.UnitTests.csproj", "{2767A432-87EF-4D0D-90E8-CB3BE82C0974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D4C1A252-673E-425E-A9D9-47732341C89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4C1A252-673E-425E-A9D9-47732341C89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4C1A252-673E-425E-A9D9-47732341C89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2767A432-87EF-4D0D-90E8-CB3BE82C0974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2767A432-87EF-4D0D-90E8-CB3BE82C0974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2767A432-87EF-4D0D-90E8-CB3BE82C0974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2767A432-87EF-4D0D-90E8-CB3BE82C0974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
