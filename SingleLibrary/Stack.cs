@@ -55,12 +55,12 @@ namespace SingleLibrary
 
             public T Peek()
             {
-                throw new Exception("Empty stack");
+                throw new InvalidOperationException();
             }
 
             public IStack<T> Pop()
             {
-                throw new Exception("Empty stack");
+                throw new InvalidOperationException();
             }
 
             public IStack<T> Push(T value)
