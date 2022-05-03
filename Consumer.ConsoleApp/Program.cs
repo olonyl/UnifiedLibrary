@@ -18,6 +18,8 @@ namespace Consumer.ConsoleApp
                 Console.WriteLine(cur);
             }
 
+            Game.Start();
+
             Console.Read();
         }
     }

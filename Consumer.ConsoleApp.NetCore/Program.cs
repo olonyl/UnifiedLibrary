@@ -18,6 +18,10 @@ namespace Consumer.ConsoleApp.NetCore
                 Console.WriteLine(cur);
             }
 
+            Game.Start();
+
         }
+
+
     }
 }

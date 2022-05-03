@@ -17,6 +17,8 @@ namespace Consumer.ConsoleApp.NetCore5
             {
                 Console.WriteLine(cur);
             }
+
+            Game.Start();
         }
     }
 }
